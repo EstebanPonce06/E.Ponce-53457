@@ -11,7 +11,7 @@ Este proyecto es un analizador desarrollado con Node.js y ANTLR4.
 
 ## Cómo ejecutar la aplicación
 1. Descargar o clonar este repositorio.
-2. Abrir una terminal de la computadora adentro de la carpeta `Proyecto`.
+2. Abrir una terminal de la computadora adentro de la carpeta `proyecto node js`.
 3. Instalar las dependencias de Node ejecutando:
    ```bash
    npm install
