@@ -1,0 +1,3 @@
+repetir {
+    imprimir("Probando condicion rota");
+} hasta x == 5;                                     //Condición inválida (No permitida por la gramática)

@@ -1,0 +1,3 @@
+repetir {
+    imprimir("Todo funciona excelente");
+} hasta falso;

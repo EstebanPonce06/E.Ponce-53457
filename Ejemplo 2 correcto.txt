@@ -1,0 +1,9 @@
+repetir {
+    imprimir("Primera linea de texto");
+    imprimir("Segunda linea de texto");
+    salir;
+} hasta verdadero;
+
+repetir {
+    salir;
+} hasta falso;
